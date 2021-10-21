@@ -15,5 +15,8 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.14"
+  },
+  "engine": {
+    "node": "12.18.2",
   }
 }
